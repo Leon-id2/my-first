@@ -1,0 +1,129 @@
+*{
+
+	background-color: black;
+	color: ;
+}
+.content{
+ 
+
+}
+
+#logo{
+
+width:42px ;
+height: 30px;
+padding-left: 80px;
+padding-top: 20px;
+}
+h3{
+    text-align: left;
+    padding-left: 20px;
+}
+#right{ 
+    margin: 0;
+    padding: 0;
+    float: center;
+    border: 1px solid ;
+    border-radius: 12px;
+    height: 25px;
+    background-color: #002;
+
+ }
+ #se{ 
+   border: none;
+
+  }
+  #head{ 
+    display: inline;
+
+
+   }
+   #home{
+     height: 20px;
+     color: white;
+   }
+   li{ 
+    border-spacing: 22px;
+    marker: none;
+    overflow-inline: ;
+ 
+    }
+    .menu{ 
+      background-color: black;
+      width:19% ;
+      float: left;
+      border: 2px solid ;
+      color: white;
+
+
+     }
+     #f{
+		text-align: left;
+     }
+
+     #ff{
+     	text-align: right;
+     }
+     hr{ 
+
+       color: black;
+       border: 1px solid;
+      }
+
+      .main{ 
+
+          background-color: ;
+          width: 60%;
+          float: left;
+          border: 2px solid;
+          color: white;
+
+       }
+       #me{
+       border-radius: 20px;
+       width: 52px;
+       height: 40px;
+
+       }
+       p::a { 
+         display: inline;
+
+         }
+         .nav{ 
+            
+  
+          }
+         a:hover{
+              text-decoration: underline ;
+              color: white;
+              
+
+       
+         }
+        .left{
+
+         width: 20%;
+         float: left;
+         background-color: black;
+         color: white;
+         border: 2px solid ;
+         
+        }
+        @media only screen and (max-width: 800px) {
+  .main, .main, .left {
+    background-color: lightblue;
+    width: 100%;
+  }
+}
+#mee{ 
+  width: 20px;
+  height: 20px;
+  color: blue;
+
+
+ }
+ #i{
+ width:30px ;
+ height:30px ;
+
+ }
